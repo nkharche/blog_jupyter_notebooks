@@ -1,1 +1,1 @@
-# blog_jupyter_notebooks
+### Jupyter notebooks for my blog at http://www.neeravkharche.com/
